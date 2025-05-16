@@ -40,13 +40,13 @@ This model was trained for 128 epochs on the EMNIST dataset with a 2-dimensional
 
 The 2D latent space allows direct visualization of how the model organizes the data:
 
-![Latent Space Visualization](./Train%20Data/Graphs/train%201/latent_space_2.avi)
+![Latent Space Visualization](./Train%20Data/Graphs/train%201/latent_space_2.mp4)
 
 #### Latent Space Traversal
 
 By traversing the latent space, we can see how the digit representations change continuously:
 
-![Latent Space Traversal](./Train%20Data/Graphs/train%201/latent_space_1.avi)
+![Latent Space Traversal](./Train%20Data/Graphs/train%201/latent_space_1.mp4)
 
 #### Training Metrics
 
@@ -70,7 +70,7 @@ This model was trained for 32 epochs on the EMNIST dataset with an 8-dimensional
 
 While the full 8D space cannot be directly visualized, we show projections of the latent space:
 
-![Latent Space Visualization](./Train%20Data/Graphs/train%202/latent_space_1.avi)
+![Latent Space Visualization](./Train%20Data/Graphs/train%202/latent_space_1.mp4)
 
 #### Training Metrics
 
